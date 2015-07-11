@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0863F44B3FDB7F6D8CCCBA95 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D21BC35EE16E7E0CB92D92C /* libPods.a */; };
+		0863F44B3FDB7F6D8CCCBA95 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D21BC35EE16E7E0CB92D92C /* libPods.a */; settings = {ATTRIBUTES = (Required, ); }; };
 		3E35B64D1B4C81C100BC8339 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E35B64C1B4C81C100BC8339 /* main.m */; };
 		3E35B6501B4C81C100BC8339 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E35B64F1B4C81C100BC8339 /* AppDelegate.m */; };
 		3E35B6531B4C81C100BC8339 /* SimpleWeatherApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3E35B6511B4C81C100BC8339 /* SimpleWeatherApp.xcdatamodeld */; };
